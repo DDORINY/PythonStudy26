@@ -1,4 +1,0 @@
-kdh|1234|김도하|doha@mbc.com|admin|True
-hgd|1234|홍길동|kkw@mbc.com|professor|True
-lhj|1234|임효정|lhj@mbc.com|user|True
-kkw|1234|김기원|kkw@mbc.com|professor|True

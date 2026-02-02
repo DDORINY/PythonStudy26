@@ -1,2 +1,0 @@
-kdh|1234|김도하|admin|True
-kkk|1234|555|user|True

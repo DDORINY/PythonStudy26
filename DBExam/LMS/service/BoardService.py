@@ -1,1 +1,0 @@
-class BoardService:pass

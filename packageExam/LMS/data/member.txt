@@ -1,4 +1,0 @@
-kdh|1234|김도하|admin|False
-kkw|1234|김기원|user|False
-hhu|0621|홍현우|user|True
-kkk|1234|1234|user|False
